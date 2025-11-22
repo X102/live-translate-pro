@@ -1,0 +1,7 @@
+{
+  "name": "LiveTranslate Pro",
+  "description": "Real-time voice translation from multiple languages to Vietnamese using Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
